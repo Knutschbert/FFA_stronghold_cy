@@ -1,0 +1,15 @@
+{
+  "repo_url": "https://github.com/Chiv2-Community/ArgonSDK-ExampleMod",
+  "name": "ArgonSDK: Example Mod",
+  "description": "Example Mod",
+  "mod_type": "Shared",
+  "authors": [ "Knutschbert" ],
+  "dependencies": [
+    {
+      "repo_url": "https://github.com/Chiv2-Community/ArgonSDK-Mods",
+      "version": "v0.0.1"
+    }
+  ],
+  "tags": [ "Mods" ]
+}
+    
