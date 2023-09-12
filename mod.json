@@ -7,9 +7,9 @@
   "dependencies": [
     {
       "repo_url": "https://github.com/Chiv2-Community/ArgonSDK-Mods",
-      "version": "v0.0.1"
+      "version": ">=0.0.1"
     }
   ],
-  "tags": [ "Mods" ]
+  "ag_mod": true,
+  "tags": [ "Mutator" ]
 }
-    
