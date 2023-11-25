@@ -1,7 +1,7 @@
 {
-  "repo_url": "https://github.com/Chiv2-Community/ArgonSDK-ExampleMod",
-  "name": "ArgonSDK: Example Mod",
-  "description": "Example Mod",
+  "repo_url": "https://github.com/Knutschbert/FFA_stronghold_cy",
+  "name": "FFA_stronghold_cy",
+  "description": "Thayic Castle Courtyard as FFA map. Features a healing well for duels.\n\n",
   "mod_type": "Shared",
   "authors": [ "Knutschbert" ],
   "dependencies": [
@@ -10,6 +10,5 @@
       "version": ">=0.0.1"
     }
   ],
-  "ag_mod": true,
-  "tags": [ "Mutator" ]
+  "tags": [ "Map" ]
 }
