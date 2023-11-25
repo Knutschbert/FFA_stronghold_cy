@@ -1,2 +1,1 @@
-# ArgonSDK-ExampleMod
-Example Plugin utilizing the [Chiv2-Community loader](https://github.com/Chiv2-Community/ArgonSDK-Mods)
+FFA Map for Chivalry 2 Unchained (Thayic Castle Courtyard) featuring a healing well
